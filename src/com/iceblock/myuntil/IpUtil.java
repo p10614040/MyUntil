@@ -38,8 +38,7 @@ public class IpUtil {
     }
 
     /**
-     * 获取 IP 地址段内的所有 IP，起始IP和结束IP必须
-     * 在一个网段。
+     * 获取 IP 地址段内的所有 IP
      *
      * @param startIp 起始IP
      * @param endIp   结束IP
