@@ -20,7 +20,7 @@ import org.apache.commons.lang3.StringUtils;
 public class HttpRequestUtil {
 	
 	/**
-	 * 静态方法，放在实例化
+	 * 静态方法，防止实例化
 	 */
 	private HttpRequestUtil(){
 	}
